@@ -1,0 +1,5 @@
+D:\学习\设计模式\PublishAndShare\Model\bin\Debug\Model.dll
+D:\学习\设计模式\PublishAndShare\Model\bin\Debug\Model.pdb
+D:\学习\设计模式\PublishAndShare\Model\obj\Debug\Model.dll
+D:\学习\设计模式\PublishAndShare\Model\obj\Debug\Model.pdb
+D:\学习\设计模式\PublishAndShare\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
